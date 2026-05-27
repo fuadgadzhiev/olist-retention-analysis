@@ -39,6 +39,7 @@
 4. Проведение дополнительного исследования причин оттока
 
 ## Структура проекта
+```text
 Olist Retention Analysis/
 ├── data/                                      # Исходные датасеты
 │   ├── olist_customers_dataset.csv
@@ -46,7 +47,7 @@ Olist Retention Analysis/
 │   └── olist_order_items_dataset.csv
 ├── analyse.ipynb                              # Основной Jupyter Notebook с полным анализом
 └── README.md
-
+```
 
 ## Выполненные задачи
 
